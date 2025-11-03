@@ -1,2 +1,2 @@
-# Mulberry-leaf-detection
-Deep learning pipeline for detecting diseases on mulberry leaves(WIP)
+# Sericulture Application
+This project is currently under development. More details will be added soon.
